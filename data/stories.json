@@ -1,0 +1,95 @@
+{
+  "romeo_and_juliet": {
+    "title": "Romeo and Juliet",
+    "author": "William Shakespeare",
+    "era": "Renaissance Italy",
+    "core_themes": ["forbidden love", "family loyalty vs personal desire", "fate vs free will", "youth and impulsiveness"],
+    "central_conflict": "Two young lovers from feuding families must navigate their forbidden relationship",
+    "key_characters": [
+      {"name": "Romeo", "role": "protagonist", "traits": ["passionate", "impulsive", "romantic"], "arc": "transforms from lovesick youth to someone willing to die for love"},
+      {"name": "Juliet", "role": "protagonist", "traits": ["intelligent", "determined", "loyal"], "arc": "grows from obedient daughter to defiant lover"},
+      {"name": "Mercutio", "role": "catalyst", "traits": ["witty", "loyal", "hot-headed"], "arc": "death triggers the tragedy"},
+      {"name": "Tybalt", "role": "antagonist", "traits": ["aggressive", "proud", "family-obsessed"], "arc": "embodies the feud's destructive nature"},
+      {"name": "Friar Lawrence", "role": "helper", "traits": ["wise", "well-meaning", "secretive"], "arc": "good intentions lead to catastrophe"},
+      {"name": "The Families", "role": "obstacle", "traits": ["proud", "vengeful", "tradition-bound"], "arc": "reconcile only through shared loss"}
+    ],
+    "plot_beats": [
+      "Establish the feud between two powerful groups",
+      "Protagonists meet and feel instant connection",
+      "Secret relationship develops despite obstacles",
+      "External conflict forces a crisis point",
+      "Misunderstanding leads to tragic decision",
+      "Death of lovers reconciles the feuding parties"
+    ],
+    "emotional_core": "Love powerful enough to transcend hatred, but destroyed by the very conflict it tried to overcome"
+  },
+  "hamlet": {
+    "title": "Hamlet",
+    "author": "William Shakespeare",
+    "era": "Medieval Denmark",
+    "core_themes": ["revenge vs morality", "appearance vs reality", "corruption and decay", "indecision and overthinking"],
+    "central_conflict": "A prince must decide whether to avenge his father's murder by his uncle",
+    "key_characters": [
+      {"name": "Hamlet", "role": "protagonist", "traits": ["intellectual", "melancholic", "indecisive"], "arc": "struggles with action vs contemplation"},
+      {"name": "Claudius", "role": "antagonist", "traits": ["ambitious", "manipulative", "guilty"], "arc": "power gained through murder leads to paranoia"},
+      {"name": "Ophelia", "role": "victim", "traits": ["innocent", "obedient", "fragile"], "arc": "caught between loyalties, driven to madness"},
+      {"name": "Gertrude", "role": "conflicted", "traits": ["loving", "weak-willed", "blind"], "arc": "realizes truth too late"},
+      {"name": "Ghost", "role": "catalyst", "traits": ["vengeful", "authoritative"], "arc": "sets events in motion"}
+    ],
+    "plot_beats": [
+      "Revelation of hidden crime by supernatural means",
+      "Protagonist struggles with burden of knowledge",
+      "Attempts to confirm the truth",
+      "Collateral damage from investigation",
+      "Final confrontation exposes all secrets",
+      "Protagonist achieves goal but at ultimate cost"
+    ],
+    "emotional_core": "The paralysis of overthinking and the corruption that spreads when justice is delayed"
+  },
+  "odyssey": {
+    "title": "The Odyssey",
+    "author": "Homer",
+    "era": "Ancient Greece",
+    "core_themes": ["homecoming and belonging", "perseverance", "temptation vs duty", "identity and recognition"],
+    "central_conflict": "A hero struggles to return home after war while facing supernatural obstacles",
+    "key_characters": [
+      {"name": "Odysseus", "role": "protagonist", "traits": ["cunning", "determined", "prideful"], "arc": "learns humility through suffering"},
+      {"name": "Penelope", "role": "faithful partner", "traits": ["loyal", "clever", "patient"], "arc": "maintains hope against all odds"},
+      {"name": "Telemachus", "role": "heir", "traits": ["young", "searching", "growing"], "arc": "matures into worthy successor"},
+      {"name": "The Suitors", "role": "antagonists", "traits": ["greedy", "disrespectful", "entitled"], "arc": "represent corruption in hero's absence"},
+      {"name": "Circe/Calypso", "role": "temptation", "traits": ["powerful", "alluring", "possessive"], "arc": "offer escape from responsibility"}
+    ],
+    "plot_beats": [
+      "Hero separated from home by circumstances",
+      "Series of trials test character and resolve",
+      "Temptations to abandon the journey",
+      "Lowest point where all seems lost",
+      "Return in disguise to assess situation",
+      "Reclaiming of home and identity"
+    ],
+    "emotional_core": "The longing for home and the price of the journey that shapes who we become"
+  },
+  "dracula": {
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "era": "Victorian England",
+    "core_themes": ["invasion of the foreign", "sexuality and repression", "modernity vs ancient evil", "corruption of innocence"],
+    "central_conflict": "An ancient vampire infiltrates modern society, and a group must stop him",
+    "key_characters": [
+      {"name": "Dracula", "role": "antagonist", "traits": ["ancient", "seductive", "predatory"], "arc": "brings old-world evil to new world"},
+      {"name": "Jonathan Harker", "role": "protagonist", "traits": ["proper", "determined", "traumatized"], "arc": "innocence shattered, becomes hunter"},
+      {"name": "Mina", "role": "target/hero", "traits": ["intelligent", "pure", "resilient"], "arc": "nearly corrupted but fights back"},
+      {"name": "Van Helsing", "role": "mentor", "traits": ["knowledgeable", "unconventional", "driven"], "arc": "bridges old knowledge and new methods"},
+      {"name": "Lucy", "role": "victim", "traits": ["vivacious", "desired", "vulnerable"], "arc": "transformation shows stakes"}
+    ],
+    "plot_beats": [
+      "Outsider encounters evil in its domain",
+      "Evil infiltrates protagonist's world",
+      "Loved one becomes victim",
+      "Group assembles with diverse skills",
+      "Hunt and confrontation",
+      "Destruction of evil at great cost"
+    ],
+    "emotional_core": "Fear of corruption from within and the power of unity against darkness"
+  }
+}

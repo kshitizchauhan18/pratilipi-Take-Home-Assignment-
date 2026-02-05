@@ -1,0 +1,67 @@
+{
+  "silicon_valley_tech": {
+    "name": "Silicon Valley Tech World",
+    "era": "2020s",
+    "setting": "San Francisco Bay Area tech ecosystem",
+    "power_structures": ["venture capital firms", "tech giants", "startup founders", "board of directors"],
+    "conflicts": ["funding wars", "talent poaching", "IP theft", "market dominance", "ethical vs profitable"],
+    "communication": ["Slack", "Twitter/X", "pitch decks", "all-hands meetings", "leaked memos"],
+    "social_hierarchy": ["founders", "VCs", "engineers", "product managers", "interns"],
+    "values": ["disruption", "scale", "growth at all costs", "move fast break things"],
+    "taboos": ["admitting failure", "work-life balance", "questioning the mission"],
+    "technology_level": "cutting-edge AI, social media, smartphones",
+    "aesthetic": "glass offices, hoodies, cold brew, standing desks"
+  },
+  "space_colony": {
+    "name": "Deep Space Colony",
+    "era": "2340s",
+    "setting": "Generation ship traveling to distant star system",
+    "power_structures": ["ship council", "department heads", "AI systems", "founding families"],
+    "conflicts": ["resource scarcity", "generational divides", "mission drift", "contact with unknown"],
+    "communication": ["neural links", "ship-wide broadcasts", "encrypted channels"],
+    "social_hierarchy": ["bridge crew", "engineers", "scientists", "civilians", "born-in-transit"],
+    "values": ["survival", "mission completion", "community over individual"],
+    "taboos": ["wasting resources", "questioning the mission", "unauthorized reproduction"],
+    "technology_level": "FTL communication delays, advanced AI, limited manufacturing",
+    "aesthetic": "cramped corridors, recycled everything, artificial gravity rings"
+  },
+  "cyberpunk_megacity": {
+    "name": "Neo-Tokyo 2089",
+    "era": "Late 21st century",
+    "setting": "Massive Asian megacity with extreme wealth inequality",
+    "power_structures": ["megacorporations", "yakuza syndicates", "underground hackers", "corrupt police"],
+    "conflicts": ["corporate warfare", "class struggle", "human augmentation ethics", "AI rights"],
+    "communication": ["neural implants", "encrypted mesh networks", "dead drops"],
+    "social_hierarchy": ["corporate executives", "salarymen", "street-level fixers", "the disconnected"],
+    "values": ["personal freedom", "information as power", "survival", "loyalty to crew"],
+    "taboos": ["trusting corporations", "going unaugmented", "snitching"],
+    "technology_level": "cybernetic augmentation, AI everywhere, degraded environment",
+    "aesthetic": "neon lights, rain, chrome and flesh, vertical slums"
+  },
+  "ancient_india": {
+    "name": "Mauryan Empire",
+    "era": "3rd century BCE",
+    "setting": "Indian subcontinent during Chandragupta's reign",
+    "power_structures": ["royal court", "brahmin advisors", "military generals", "guild leaders"],
+    "conflicts": ["succession disputes", "foreign invasion", "caste tensions", "dharma vs ambition"],
+    "communication": ["royal messengers", "spies", "public proclamations", "temple networks"],
+    "social_hierarchy": ["royalty", "brahmins", "kshatriyas", "vaishyas", "shudras"],
+    "values": ["dharma", "honor", "family duty", "strategic wisdom"],
+    "taboos": ["breaking caste rules", "disrespecting elders", "oath-breaking"],
+    "technology_level": "iron age, elephant cavalry, sophisticated espionage",
+    "aesthetic": "palaces, temples, marketplaces, monsoon seasons"
+  },
+  "post_apocalyptic": {
+    "name": "After the Collapse",
+    "era": "2150s (50 years after civilization fell)",
+    "setting": "Ruins of American Midwest, small settlements",
+    "power_structures": ["settlement councils", "trader caravans", "raider gangs", "knowledge keepers"],
+    "conflicts": ["resource scarcity", "territorial disputes", "old world tech control", "disease"],
+    "communication": ["runners", "radio (rare)", "signal fires", "trade routes"],
+    "social_hierarchy": ["elders", "hunters/fighters", "farmers", "crafters", "outsiders"],
+    "values": ["community survival", "practical skills", "distrust of old world"],
+    "taboos": ["wasting food", "hoarding knowledge", "bringing danger to settlement"],
+    "technology_level": "scavenged tech, oral tradition, basic manufacturing",
+    "aesthetic": "rusted cars, overgrown cities, makeshift settlements"
+  }
+}
