@@ -18,7 +18,6 @@ env/
 
 # Output artifacts
 output.json
-output.md
 
 # OS files
 .DS_Store
